@@ -1,3 +1,3 @@
 # foobar
 foo is not bar
-edit edit
+bar is not foo
